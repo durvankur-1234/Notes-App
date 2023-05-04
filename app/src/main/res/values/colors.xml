@@ -16,6 +16,12 @@
     <color name="colorIcon">#A4A4A4</color>
     <color name="colorAccent">#FDBE3D</color>
     <color name="colorTextSubtitle">#FAFAFA</color>
+    <color name="colorDefaultNoteColor">#333333</color>
+    <color name="colorMiscellaneousBackground">#1F1F1F</color>
+    <color name="colorNoteColor2">#FDBE3B</color>
+    <color name="coloNoteColor3">#FF4842</color>
+    <color name="colorNoteColor4">#3A52fc</color>
+    <color name="colorNoteColor5">#000000</color>
 
 
 </resources>
